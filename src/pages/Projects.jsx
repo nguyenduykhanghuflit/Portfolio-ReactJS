@@ -4,7 +4,7 @@ import ProjectCard from '../components/Projects/ProjectCard';
 import Particle from '../components/Particle';
 import telegrambot from '../assets/projects/telegam.jpg';
 import hotel from '../assets/projects/hotel.png';
-
+//update
 const Projects = () => {
    return (
       <Container
