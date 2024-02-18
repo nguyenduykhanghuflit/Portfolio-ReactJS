@@ -40,7 +40,7 @@ const Social = () => {
             </li>
             <li className="contact-icons">
               <a
-                href="https://www.instagram.com/https://www.instagram.com/nquyen.duy.khanq/"
+                href="https://www.instagram.com/nquyen.duy.khanq/"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-color contact-social-icons"
